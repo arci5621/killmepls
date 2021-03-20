@@ -15,7 +15,5 @@ if __name__ == '__main__':
     print('Hey you!')
     print('Let\'s compare the files')
     # Test commit
-    # Zio santo
-    # Test 2
-    # Test branch 2.0
     # Test GIT branch
+    # Pippo
